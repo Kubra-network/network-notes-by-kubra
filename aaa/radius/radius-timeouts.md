@@ -1,4 +1,4 @@
-# RADIUS Timeouts
+# RADIUS Timeout Attributes
 
 * Idle Timeout :
 Disconnects the client if it sends no traffic for a certain period.
