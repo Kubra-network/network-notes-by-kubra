@@ -12,15 +12,3 @@ Time limit reached → re-auth
 
 
 
-
- [TR]
-
-* Idle Timeout :	
-Belirli bir süre hiç trafik göndermezse clientı ağdan atar.
-
-Aktivite yok → bağlantı kesilir
-
-* Session Timeout	:
-Client aktif olsa bile, oturum süresi dolunca yeniden kimlik doğrulaması zorunlu olur.
-
-Süre biter → yeniden doğrulama
