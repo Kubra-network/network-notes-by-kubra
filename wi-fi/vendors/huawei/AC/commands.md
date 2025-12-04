@@ -12,3 +12,12 @@ Debugging radius all
 undo t m // to stop debug logs on cli
 
 Save // on default mode to save config
+
+debugging web all  // web debug logs
+
+* Enable the function of allowing user name and password information submission to the device in GET mode in the Portal server template.
+
+[HUAWEI] web-auth-server portal_test
+[HUAWEI-web-auth-server-portal_test] http get-method enable
+
+[HUAWEI] display aaa online-fail-record
