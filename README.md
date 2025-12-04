@@ -1,12 +1,10 @@
 # network-notes-by-kubra
-A collection of personal notes, field experiences, network fundamentals, Wi-Fi insights, and troubleshooting.
+This repository contains my personal network engineering notes collected over two years of hands-on work in R&D, PoCs, customer deployments, and multi-vendor Wi-Fi/switching environments.
 
-All content is based on my real-world work in R&D, PoCs, customer deployments, wireless optimization, and multi-vendor network engineering.
+I created this repo to keep my notes organized, make them searchable for others, and share practical configurations and concepts I used in real environments.
 
-This repository grows over time as I continue learning, testing, breaking, fixing, and documenting.
-
-
-
-# Contact
+If you find it helpful or want to follow the updates, you can connect with me on LinkedIn.
 
 www.linkedin.com/in/kubra-demir00
+
+
